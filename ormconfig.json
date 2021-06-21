@@ -1,6 +1,6 @@
 {
-    "type": "mongodb",
-    "host": "localhost",
+    "type": "mongo",
+    "host": "52.79.234.10",
     "port": 27017,
     "database": "local",
     "entities": ["dist/**/*.entity{.ts,.js}"],
